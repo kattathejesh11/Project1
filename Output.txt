@@ -1,0 +1,23 @@
+BILL
+
+Bill No   : 18925               
+Date      : Jun-26-2021 12:58:27
+User      : billing             
+
+Party Name : WalkInCash
+
+Item Qty MRP Rate
+
+Water Bisleri 1 85.00 85.00 Water Delivery Charges 1 5.00 5.00
+
+Bill Amount : 90.00
+
+G.Total: 90.00
+
+Total Item : 2.00 Total Qty : 2.00 Payment Type : Cash Cash Paid : 100.00 Refund : 10.00
+
+Total
+
+85.00 5.00
+
+STAY HOME AND STAY SAFE***
